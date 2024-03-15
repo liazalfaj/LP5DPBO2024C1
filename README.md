@@ -36,12 +36,5 @@ User akan melihat antarmuka GUI yang berisi tabel untuk menampilkan data mahasis
 ### Record
 
 
-Uploading Record Program.mp4…
-
-
-
-
-
-
-
+https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/b03028d2-30db-4c63-a565-eab3d00a25c2
 

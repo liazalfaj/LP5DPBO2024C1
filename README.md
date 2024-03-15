@@ -17,3 +17,23 @@ User akan melihat antarmuka GUI yang berisi tabel untuk menampilkan data mahasis
 * **Hapus Data** : User memilih data mana yang akan dihapus. Setelah itu, data akan muncul di form. Lalu klik tombol "Delete" pada bagian kanan. Setelah itu akan muncul kotak pesan konfirmasi kembali terkait penghapusan data. Terdapat dua tombol, yaitu tombol "Yes" dan "No". Jika user memilih tombol "Yes", maka data akan terhaous dan hilang dari tabel. Jika user memilih tombol "No", maka data tidak jadi dihapus dan masih ada di dalam tabel.
 
 ## Dokumentasi
+### Tampilan Awal
+![tampilanAwal](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/0539e17b-d438-4a49-813a-40d3aa9ca637)
+### Pesan setelah Tambah Data
+![addMessage](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/4ea6f5c4-4751-4330-b3aa-59e543544e79)
+### Konfirmasi Hapus Data
+![confirmDelete](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/5568df8a-979b-4f93-a0d4-14b8162bf05b)
+### Pesan setelah Hapus data
+![deleteMessage](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/e6e67cf2-63d3-451a-97e2-cd2a6fc624c4)
+### Data sebelum di Update (NO 1)
+![beforeUpdate](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/dfe6b4dd-3877-4ca4-b61b-8f99581d7d3a)
+### Pesan setelah Update Data
+![updateMessage](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/3f88900e-ae1a-403e-a546-3f14d62fe702)
+
+### Data setelah di Update
+![afterUpdate](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/6e37cb39-e7b0-47ed-ab20-71eb6898933c)
+
+
+
+
+

@@ -31,7 +31,8 @@ User akan melihat antarmuka GUI yang berisi tabel untuk menampilkan data mahasis
 ![updateMessage](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/3f88900e-ae1a-403e-a546-3f14d62fe702)
 
 ### Data setelah di Update
-![afterUpdate](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/6e37cb39-e7b0-47ed-ab20-71eb6898933c)
+![image](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/a67057e5-b585-4e52-9eb5-43c1c7fd08f7)
+
 
 
 

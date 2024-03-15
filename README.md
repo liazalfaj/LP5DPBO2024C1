@@ -2,7 +2,7 @@
 ## Janji
 Saya Amelia Zalfa Julianti dengan NIM 2203999 mengerjakan Latihan Praktikum 5 mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan sesuai dengan apa yang telah dispesifikasikan. Aamiin.
 ## Desain Program
-* Kelas Mahasiswa : ini adalah kelas untuk merepresentasikan objek mahasiswa dengan atribut NIM, Nama, jenis kelamin, dan status mahasiswa. Setiap properti memiliki getter dan setter untuk mengakses dan mengubah nilainya.
+* Kelas Mahasiswa : Kelas ini untuk merepresentasikan objek mahasiswa dengan atribut NIM, Nama, jenis kelamin, dan status mahasiswa. Setiap properti memiliki getter dan setter untuk mengakses dan mengubah nilainya.
 * Kelas Menu : Kelas ini adalah tempat program utama dijalankan. Ini adalah sebuah frame GUI (Graphical User Interface) menggunakan Java swing. Berikut adalah beberapa komponen yang terdapat dalam program :
   1. **Variabel dan ArrayList** : **'selectedIndex'** digunakan untuk menyimpan indeks baris yang di klik dalam tabel. 'listmahasiswa' adalah ArrayList yang berisi objek Mahasiswa yang akan ditampilkan di tabel.
   2. **Komponen GUI** : Terdapat JTextField untuk NIM dan Nama, JComboBox untuk jenis kelamin dan status mahasiswa, JTable untuk menampilkan data mahasiswa, dan beberapa JButton untuk menambah, mengubah, dan menghapus data.
@@ -32,6 +32,13 @@ User akan melihat antarmuka GUI yang berisi tabel untuk menampilkan data mahasis
 
 ### Data setelah di Update
 ![image](https://github.com/liazalfaj/LP5DPBO2024C1/assets/114666885/a67057e5-b585-4e52-9eb5-43c1c7fd08f7)
+
+### Record
+
+
+Uploading Record Program.mp4…
+
+
 
 
 
